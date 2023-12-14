@@ -10,7 +10,8 @@ Bienvenido a la documentación de la metodología de captura en campo!
    :maxdepth: 2
    :caption: Contents:
 
-
+   new_project.md
+   migration_to_db.md
 
 Indices and tables
 ==================
