@@ -13,9 +13,9 @@ Bienvenido a la documentación de la metodología de captura en campo!
    new_project.md
    migration_to_db.md
 
-Indices and tables
-==================
+.. Indices and tables
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
