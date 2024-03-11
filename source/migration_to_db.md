@@ -1,11 +1,15 @@
 # Migrar información de Captura en Campo a Edición en oficina
 
-Note: 
+<div class="warning">
+<p class="admonition-title">WARNING</p>
+<p>Recuerda installar las siguientes extensiones en tu base de datos.</p>
+</div>
 
 ```
-create extension postgis;
+CREATE EXTENSION IF NOT EXISTS "postgis";
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 ```
+
 
 1. Dirigase en la barra de herramientas a `Base de datos` -> `Model Baker` -> `Import/Export Wizard`
 2. Clic en `Export data from existing database`
