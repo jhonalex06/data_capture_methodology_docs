@@ -5,7 +5,7 @@
 <p>Los pasos descritos a continuación son una guía pero es necesario que el proceso sea realizado por una persona con conocimientos en sistemas de información geográfica en caso de requerirsen modificaciones a la información capturada en campo.</p>
 </div>
 
-<a class="" data-lightbox="Plugin" href="_static/Plugin.gif" title="Plugin" data-title="Plugin"><img src="_static/Plugin.gif" class="align-center" width="1024px" alt="Plugin">
+<a class="" data-lightbox="Plugin" href="_static/plugin.gif" title="Plugin" data-title="Plugin"><img src="_static/plugin.gif" class="align-center" width="1024px" alt="Plugin">
 </a>
 
 1. Eliminar duplicados por Geometría y Attributos. 
