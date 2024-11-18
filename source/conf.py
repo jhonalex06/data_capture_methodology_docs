@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Data capture methodology docs'
-copyright = '2023, Jhon Galindo'
+project = 'Propuesta Metodológica Para La Recolección De Información Para El Catastro Multipropósito conforme al Modelo LADM-COL'
+copyright = '2024, Jhon Galindo'
 author = 'Jhon Galindo'
 release = '0'
 
