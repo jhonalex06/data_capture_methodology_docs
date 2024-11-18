@@ -8,7 +8,10 @@
 <a class="" data-lightbox="Plugin" href="_static/plugin.gif" title="Plugin" data-title="Plugin"><img src="_static/plugin.gif" class="align-center" width="1024px" alt="Plugin">
 </a>
 
-1. Eliminar duplicados por Geometría y Attributos. 
+1. Eliminar duplicados por Geometría y Attributos.
+
+Funcionalidad del nucleo de QGIS que permite realizar la limpieza de los datos en primera instancia. 
+
 2. Remover terrenos con área despreciable.
 
 Una de las situaciones que se puede evidenciar en los datos capturados en campo, es que los terrenos estén conformados por múltiples partes, en los cuales se generan polígonos adicionales con áreas muy pequeñas. Este algoritmo requiere que el usuario defina: la capa de Terreno a analizar (aunque por defecto se referencia la capa CCA_Terreno) y el valor del área de validación (en metros cuadrados). Una vez se confirmen estos valores, el algoritmo retornará un listado de los polígonos que tienen un área igual o menor al umbral definido en la capa definida, permitiendo al usuario seleccionar que polígonos desea eliminar y cuales mantener en una nueva capa, la cual se denomina (Etapa 1) Terrenos ajustados.
