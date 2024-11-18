@@ -12,6 +12,7 @@ Bienvenido a la documentación de la metodología de captura en campo!
 
    new_project.md
    migration_to_db.md
+   xtf_to_db.md
    desktop_steps.md
 
 .. Indices and tables

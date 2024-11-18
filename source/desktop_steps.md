@@ -6,11 +6,9 @@
 </div>
 
 1. Eliminar duplicados por Geometría y Attributos. 
-2. Eliminar terrenos y predios fantasma.
-3. Validar áreas.
-4. Ajuste automático de Coordenadas.
+2. Remover terrenos con área despreciable.
+3. Calcular coordenadas automáticamente.
+4. Ajustar polígonos a puntos.
 5. Validar áreas.
-6. Ajustar Puntos a terrenos.
-7. Validar áreas.
-8. Construir limites automaticamente.
-9. Exportar XTF.
+6. Construir linderos.
+7. Migrar información.
